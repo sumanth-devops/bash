@@ -1,8 +1,8 @@
 hi iam file from slave 
-:q!|
-
-
- iam slave edit for second time withiuyt adding simply mergjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+:q!setnu
+|
+i am masterrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
  ffffffffffffffffffffffffff
 
  fffffffffffff
