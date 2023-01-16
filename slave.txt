@@ -1,4 +1,5 @@
-hi iam file from slave 
+                                     qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+				     hi iam file from slave 
 :q!|
 
 
