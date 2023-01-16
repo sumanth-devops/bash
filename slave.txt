@@ -13,3 +13,8 @@ hi iam file from slave
  ffffffffffffffffffffff
 
  ffffffffffffe
+
+
+
+
+ i am slave edit  to merge master
