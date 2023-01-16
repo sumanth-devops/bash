@@ -1,6 +1,45 @@
 
+<<<<<<< HEAD
  my first line
 
 =======
-my secondline by slave
+
+>>>>>>> slave
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 >>>>>>> slave
