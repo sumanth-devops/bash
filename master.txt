@@ -1,1 +1,2 @@
-slave emptioe dfile
+slave emptioe I am master edir
+
