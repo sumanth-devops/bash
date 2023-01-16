@@ -1,6 +1,10 @@
 qqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqq
+<<<<<<< HEAD
 4th lin e from master deleted in dummy same lines edited by both peopele at a time
+=======
+4th lin e from master deleted in dummy   editing inslave also to merge to ,master 
+>>>>>>> dummy
 5th line dummy
 sixt luine by dummy
